@@ -38,5 +38,9 @@ Enjoy the freedom of the open road with Road Trip Rental! Your journey begins he
 
 Happy Road Tripping! 🛣️🌍
 
-Road Trip Rental - By: Palak Singhal
 
+SCREENSHOT
+
+![Screenshot 2024-01-28 225137](https://github.com/Palak0248/Road-Trip-Rental/assets/115970731/9595363f-119d-4c19-a4b5-d832a8b11b74)
+
+Road Trip Rental - By: Palak Singhal
